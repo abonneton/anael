@@ -1,0 +1,28 @@
+html {
+  font-size: 18px;
+}
+
+
+#contact.home-section .fa-li {
+    padding-top: inherit;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.home-section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.article-small-title {
+  font-weight: 700;
+  font-size: 1rem;
+  font-family: 'Lato', sans-serif;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+
+.pub-publication {
+  color: #090;
+  font-size: 1rem;
+}
