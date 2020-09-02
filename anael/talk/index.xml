@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations on Anaël Beaugnon (Bonneton)</title>
-    <link>https://stratoss.fr/anael/talk/index.xml</link>
+    <link>https://abonneton.github.io/anael/talk/index.xml</link>
     <description>Recent content in Presentations on Anaël Beaugnon (Bonneton)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>[FRENCH] Appliquer le Machine Learning de manière pertinente à la détection d’intrusion</title>
-      <link>https://stratoss.fr/anael/talk/cert_ist_2017/</link>
+      <link>https://abonneton.github.io/anael/talk/cert_ist_2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stratoss.fr/anael/talk/cert_ist_2017/</guid>
+      <guid>https://abonneton.github.io/anael/talk/cert_ist_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning for Computer Security Experts using Python &amp; scikit-learn</title>
-      <link>https://stratoss.fr/anael/talk/pyparis_2017/</link>
+      <link>https://abonneton.github.io/anael/talk/pyparis_2017/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stratoss.fr/anael/talk/pyparis_2017/</guid>
+      <guid>https://abonneton.github.io/anael/talk/pyparis_2017/</guid>
       <description></description>
     </item>
     
